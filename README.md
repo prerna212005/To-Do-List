@@ -35,7 +35,7 @@ Built using **HTML, CSS, and JavaScript**, this app allows users to:
 
 ## 📸 Preview
 
-![Todo List Preview](pre.png)  
+![Todo List Preview](assets/pre.png)  
 
 Open index.html in your browser
 
